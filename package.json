@@ -11,5 +11,8 @@
   "scripts": {
     "start": "node server.js",
     "postinstall": "cd ./client && yarn"
-  }
+  },
+  "engines": { 
+    "node": "16.14.0" 
+  } 
 }

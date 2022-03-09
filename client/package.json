@@ -40,5 +40,8 @@
   },
   "devDependencies": {
     "react-socket-io": "^0.2.5"
-  }
+  },
+  "engines": { 
+    "node": "16.14.0" 
+  } 
 }
